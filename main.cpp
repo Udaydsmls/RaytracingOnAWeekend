@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "World" << std::endl;
+    std::cout << "Wold" << std::endl;
     return 0;
 }

@@ -3,4 +3,5 @@ project(RaytracingOnAWeekend)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(RaytracingOnAWeekend main.cpp)
+add_executable(RaytracingOnAWeekend main.cpp
+        main.cpp)

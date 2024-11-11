@@ -19,7 +19,7 @@ void write_color(std::ostream &out, const vec3 &pixel_color) {
     const int g_byte = static_cast<int>(255.99 * g);
     const int b_byte = static_cast<int>(255.99 * b);
 
-    out << r_byte << " " << g_byte << " " << b_byte;
+    out << r_byte << " " << g_byte << " " << b_byte << "\n";
 }
 
 

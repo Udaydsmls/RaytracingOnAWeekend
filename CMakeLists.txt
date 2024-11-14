@@ -7,4 +7,6 @@ add_executable(RaytracingOnAWeekend main.cpp
         vec3.h
         color.h
         ray.h
+        hittable.h
+        sphere.h
 )

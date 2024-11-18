@@ -9,4 +9,8 @@ add_executable(RaytracingOnAWeekend main.cpp
         ray.h
         hittable.h
         sphere.h
+        hittable_list.h
+        rtweekend.h
+        interval.h
+        camera.h
 )
